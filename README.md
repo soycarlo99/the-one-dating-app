@@ -31,11 +31,13 @@ A full-stack dating application with swipe matching, real-time messaging, storie
 
 ## Screenshots
 
-![Screenshot 1](screenshot01.png)
-![Screenshot 2](screenshot02.png)
-![Screenshot 3](screenshot03.png)
-![Screenshot 4](screenshot04.png)
-![Screenshot 5](screenshot05.png)
+<p>
+  <img src="screenshot01.png" width="180" />
+  <img src="screenshot02.png" width="180" />
+  <img src="screenshot03.png" width="180" />
+  <img src="screenshot04.png" width="180" />
+  <img src="screenshot05.png" width="180" />
+</p>
 
 ---
 
